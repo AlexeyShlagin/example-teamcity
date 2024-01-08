@@ -1,4 +1,4 @@
-package plaindoll;
+Рpackage plaindoll;
 
 public class Welcomer{
 	public String sayWelcome() {
@@ -12,5 +12,8 @@ public class Welcomer{
 	}
 	public String saySome(){
 		return "something in the way";
+	}
+	public String sayHunter(){
+		return "Good evening my darling. How can i get to the library?";
 	}
 }
