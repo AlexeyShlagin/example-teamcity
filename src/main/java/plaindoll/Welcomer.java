@@ -14,7 +14,7 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter(){
-		return "Good evening my darling. How can i get to the library?";
+		return "Good evening hunter. How can i get to the library?";
 	}
 }
 
